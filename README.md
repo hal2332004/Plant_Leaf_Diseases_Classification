@@ -4,3 +4,6 @@ This study applies machine learning and image processing to classify plant leaf 
 
 Link to the Dataset: https://data.mendeley.com/datasets/tywbtsjrjv/1
 ![Description](image.png)
+
+
+Please rate this project ⭐️ if you find it useful!
